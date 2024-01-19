@@ -1,0 +1,3 @@
+cd /tmp
+cat /proc/mtd
+mtd write firmware.bin /dev/mtd4
