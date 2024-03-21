@@ -1,4 +1,4 @@
-# Dialog S12 Pro Unlock Frimware Dump Using Openwrt Infumus Boot 
+# Dialog S12 Pro Unlock Frimware Dump Using Openwrt Initramfs Boot 
 
 # Device & Version Information
 Model 	S12 PRO
