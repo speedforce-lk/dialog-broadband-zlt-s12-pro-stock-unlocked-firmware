@@ -13,3 +13,7 @@ Configuration Version : S12U-Dlg72-v3.18UP
 Inline Soft Version : 6.34
 
 Voip Software Version : V1421MGCC24K13_T2
+
+# Modem Information
+
+Modem Hardware Version : sl8563_ncm_modem
