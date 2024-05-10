@@ -22,7 +22,7 @@ Modem Hardware Version : sl8563_ncm_modem
 
 Username : 
 ```
-User 
+user 
 ```
 Password : 
 ```
