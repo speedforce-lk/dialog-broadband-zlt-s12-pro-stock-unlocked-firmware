@@ -18,6 +18,16 @@ Voip Software Version : V1421MGCC24K13_T2
 
 Modem Hardware Version : sl8563_ncm_modem
 
+# Login (Super User)
+
+Username : 
+```
+User 
+```
+Password : 
+```
+KZm28dTD
+```
 
 --
 
