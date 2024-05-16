@@ -41,3 +41,10 @@ branch=master-s12up-4.31.32-globe
 os=Ubuntu
 sha1=d8b39bc88926b2e8aab96447b267d85149868579
 build=2022-01-12_13:56
+
+
+# How To Flash This $hit 
+
+https://www.youtube.com/watch?v=NWw4_7FmG7Q
+
+ Watch this and use your basic instance to understand it. If you did not understand it, fuuck it. 
