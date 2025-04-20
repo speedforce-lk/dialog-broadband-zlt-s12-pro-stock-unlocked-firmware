@@ -1,7 +1,7 @@
 # Dialog S12 Pro Unlock Frimware Dump Using Openwrt Initramfs Boot 
 
 # Notice 
-# ⚠️ This is a dump of the unlocked dialog for S12 Pro; do not flash with SLT S12 Pro router. and do not inbox me for any kind of question about this dump. Do anything at your own risk. 
+# ⚠️ This is a dump of the unlocked dialog for S12 Pro; do not flash with SLT S12 Pro router. Do anything at your own risk. 
 # ⚠️ I am not responsible for any router bricking cases.
 
 
